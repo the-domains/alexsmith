@@ -1,0 +1,14 @@
+layout_spectrum: 0.8637993
+color:
+  saturation: 0.8057846
+  lightness: 0.3673835
+  brandStrength: 0.8978494
+  brandColors:
+    - '#DDDDDB'
+    - '#73736B'
+    - '#363837'
+    - '#B98F79'
+    - '#742325'
+  rhythmicContrast: 0.4938096
+typography_spectrum: 0.2724014
+name: AlexSmith
