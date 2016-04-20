@@ -1,14 +1,29 @@
+name: AlexSmith
+favicon: null
 layout_spectrum: 0.8637993
+typography_spectrum: 0.2724014
+title: Official site for Alex Smith
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8057846
-  lightness: 0.3673835
-  brandStrength: 0.8978494
   brandColors:
     - '#DDDDDB'
     - '#73736B'
     - '#363837'
     - '#B98F79'
     - '#742325'
+  brandStrength: 0.8978494
+  lightness: 0.3673835
+  saturation: 0.8057846
   rhythmicContrast: 0.4938096
-typography_spectrum: 0.2724014
-name: AlexSmith
+purpose: []
